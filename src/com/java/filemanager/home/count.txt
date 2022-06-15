@@ -1,0 +1,3 @@
+Total number of files equals: 2
+Total number of files in dev directory equals: 1
+Total number of files in test directory equals: 1
